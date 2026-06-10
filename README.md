@@ -77,3 +77,69 @@ loan-prediction-app/
 ├── loan_model.pkl
 ├── requirements.txt
 └── README.md
+
+
+
+⚙️ Installation
+
+Clone Repository
+
+git clone https://github.com/kunalthaku/loan-prediction-app.git
+
+Move into Project Folder
+
+cd loan-prediction-app
+
+Install Dependencies
+
+pip install -r requirements.txt
+
+Run App
+
+streamlit run app.py
+🎯 Sample Prediction
+Income	Loan Amount	Credit Score
+50000	6000	750
+Result
+Loan Approved
+📊 Model Workflow
+User Input
+     ↓
+Preprocessing
+     ↓
+Machine Learning Model
+     ↓
+Prediction
+     ↓
+Loan Approved / Rejected
+🔮 Future Improvements
+Add User Authentication
+Improve Model Accuracy
+Add More Features
+Prediction Probability Score
+Dashboard Analytics
+Loan Recommendation System
+📸 Application Preview
+
+Add screenshots here later.
+
+screenshots/home.png
+screenshots/result.png
+👨‍💻 Author
+Kunal Kumar
+
+GitHub:
+
+https://github.com/kunalthaku
+
+⭐ Show Your Support
+
+If you like this project:
+
+⭐ Star the Repository
+
+🍴 Fork the Repository
+
+📢 Share with Friends
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Machine+Learning+Project;Loan+Prediction+System;Built+with+Python+and+Streamlit;Deployed+on+Streamlit+Cloud"> </p> <p align="center"> Made with ❤️ by Kunal Kumar </p> ```
